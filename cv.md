@@ -1,5 +1,7 @@
 **#Tatsiana Tsintsevitskaya**
 
+![photo](https://avatars.githubusercontent.com/u/96916578?v=4)
+
 ####Contacts:
 
 **####Phone and Viber:** +375 29 602 37 49
@@ -51,6 +53,6 @@ System.out.println();
 
 Experience
 
-Tasks on the course JvaRush and Beonmax
+Tasks on the course JavaRush and Beonmax
 
 I nave Englich level A1. Language practice with native speakers in the Hello Talk app.
